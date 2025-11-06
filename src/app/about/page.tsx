@@ -6,7 +6,9 @@ export default function Page() {
       <Container>
         <div className="py-12">
           <h1 className="text-3xl font-bold">À propos</h1>
-          <p className="text-gray-600 mt-2">Head of Projects. Certifs : PMP, LSSBB, FMVA. Focus : performance industrielle & CAPEX.</p>
+          <p className="text-gray-600 mt-2">
+            Head of Projects. Certifs : PMP, LSSBB, FMVA. Spécialisation : performance industrielle, CAPEX et contrôle opérationnel.
+          </p>
         </div>
       </Container>
     </main>
